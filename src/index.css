@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.calculatrice{
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+}
+
+.nb-btn{
+  width: 150px;
+  height: 50px;
+}
+
+.display{
+  
+}
